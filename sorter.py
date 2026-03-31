@@ -10,6 +10,7 @@ def get_category (filename):
   return "Others"
 
 def sort_files(source_folder, destination_folder):
+  counts = {}
   for file in os.listdir(source_folder):
     file_path = os.path.join(source_folder, file)
 
@@ -20,4 +21,6 @@ def sort_files(source_folder, destination_folder):
       os.makedirs(target_folder, exist_ok =True)
       shutil.move(file_path, os.path.join(target_folder, file))
       print(f"Moved {file} → {category}")
+      counts[category] = counts.get(category, 0) + 1
+  return counts
 

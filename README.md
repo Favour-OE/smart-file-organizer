@@ -17,6 +17,7 @@
 - [Supported File Types](#supported-file-types)
 - [Configuration](#configuration)
 - [Project Structure](#project-structure)
+- [Release](#release)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -268,6 +269,8 @@ Contributions are welcome! Please follow these steps:
 5. Open a Pull Request
 
 ---
+## Release
+[Download Latest Release](https://github.com/Favour-OE/smart-file-organizer/releases)
 
 ## License
 

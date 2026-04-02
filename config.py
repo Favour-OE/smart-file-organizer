@@ -3,4 +3,5 @@ FILE_TYPES = {
     "Video": [".mp4", ".mkv"],
     "Images": [".jpg", ".png", ".jpeg"],
     "Documents": [".pdf", ".docx", ".txt"],
+    "Others": [],
 }

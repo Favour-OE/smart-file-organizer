@@ -1,21 +1,198 @@
-MIT License
+# Smart File Organizer License
 
-Copyright (c) 2026 Favour-OE
+**Open Source License with Usage Restrictions**
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+*Version 1.0 | Effective Date: April 1, 2026*
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+---
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## Copyright Notice
+
+Copyright (c) 2026 Favour-OE. All rights reserved.
+
+---
+
+## Preamble
+
+This License governs the use, copying, modification, distribution, and reproduction of the "Smart File Organizer" software (hereinafter referred to as the "Software"). By using, copying, or distributing the Software, you agree to be bound by the terms and conditions of this License.
+
+The author(s) of this Software have developed it for the benefit of the open source community and wish to make it freely available for personal and non-commercial use. However, the author(s) retain exclusive rights regarding commercial distribution and monetization of this Software.
+
+---
+
+## Terms and Conditions
+
+### 1. Grant of License
+
+Subject to the terms and conditions of this License, the Copyright Holder hereby grants you a **non-exclusive, worldwide, royalty-free, non-sublicensable** license to:
+
+- **Use** the Software for personal purposes
+- **Copy** the Software for personal use
+- **Modify** the Software for personal use
+- **Distribute** the Software **freely** (without charging any fees)
+
+### 2. Usage Restrictions
+
+The following uses of the Software are **expressly prohibited**:
+
+#### 2.1 Commercial Prohibition
+
+- **No Distribution for Profit**: You may **NOT** sell, rent, lease, lend, or otherwise distribute this Software for any commercial purpose or monetary gain.
+- **No Inclusion in Paid Products**: You may **NOT** include this Software, in whole or in part, in any commercial product, service, or offering.
+- **No Premium Versions**: You may **NOT** create "premium," "pro," "enhanced," or otherwise monetized versions of this Software.
+- **No Commercial Services**: You may **NOT** use this Software to provide commercial services to third parties for a fee.
+
+#### 2.2 Attribution Requirements
+
+When distributing this Software in its original or modified form, you **MUST**:
+
+- Retain all existing copyright notices and this License agreement
+- Clearly attribute the original author(s) in any redistribution
+- Indicate if you have modified the Software and provide a brief description of modifications
+
+#### 2.3 Prohibited Actions
+
+Regardless of whether the Software is provided free of charge, the following actions are **strictly prohibited**:
+
+- Using this Software in any manner that violates applicable laws or regulations
+- Attempting to gain unauthorized access to systems or data
+- Using this Software to develop competing software or products
+- Removing, obscuring, or modifying any proprietary notices, labels, or marks
+- Claiming ownership of the Software or any of its components
+- Using the Software's name, logo, or branding without explicit written permission
+
+### 3. Permitted Uses
+
+The following uses are permitted under this License:
+
+- **Personal Use**: Using the Software for personal file organization on your own devices
+- **Educational Use**: Using the Software for learning, teaching, or academic purposes
+- **Open Source Development**: Contributing modifications back to the community
+- **Free Distribution**: Sharing the Software with others at no charge
+- **Non-Commercial Projects**: Integrating the Software into non-commercial open source projects (with attribution)
+
+### 4. Contribution Policy
+
+If you submit modifications, improvements, or other contributions to this Software:
+
+- You agree that such contributions become the property of the Copyright Holder
+- You waive all claims to intellectual property rights over your contributions
+- You represent that you have the legal right to make such contributions
+
+### 5. Disclaimer of Warranty
+
+**THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED**, including but not limited to:
+
+- **Merchantability**: The Software is provided without warranty of merchantability or fitness for a particular purpose
+- **Accuracy**: The Software is provided without warranty regarding accuracy, reliability, or correctness
+- **Performance**: The Software is provided without warranty that it will meet your requirements or expectations
+- **Non-Infringement**: The Software is provided without warranty that it does not infringe on any third-party rights
+
+The entire risk as to the quality and performance of the Software is borne by you. Should the Software prove defective, you assume the cost of all necessary servicing, repair, or correction.
+
+### 6. Limitation of Liability
+
+**UNDER NO CIRCUMSTANCES SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE** for any:
+
+- Direct, indirect, incidental, special, exemplary, or consequential damages
+- Damages for loss of profits, goodwill, use, data, or other intangible losses
+- Damages arising from the use, inability to use, or performance of the Software
+- Damages resulting from data loss, corruption, or unauthorized access
+- Any other damages or losses arising from any cause whatsoever
+
+**This limitation of liability applies regardless of**:
+
+- The theory of liability (contract, tort, or otherwise)
+- Whether the Copyright Holder has been advised of the possibility of such damages
+- Whether a remedy fails its essential purpose
+
+In any event, the total liability of the Copyright Holder and contributors shall not exceed the amount you paid (if any) to obtain this Software.
+
+### 7. Indemnification
+
+You agree to indemnify, defend, and hold harmless the Copyright Holder, contributors, and their respective officers, directors, employees, and agents from and against any and all:
+
+- Claims
+- Damages
+- Losses
+- Liabilities
+- Costs and expenses (including reasonable legal fees)
+
+Arising from or related to:
+
+- Your violation of any term of this License
+- Your misuse of the Software
+- Any claims that your modifications infringe on third-party rights
+
+### 8. Termination
+
+This License is effective until terminated. Your rights under this License will terminate automatically without notice if you:
+
+- Fail to comply with any term or condition of this License
+- Initiate any legal action against the Copyright Holder
+
+Upon termination, you must:
+
+- Cease all use of the Software
+- Destroy all copies of the Software in your possession
+- Remove the Software from any systems where it is installed
+
+### 9. Governing Law and Jurisdiction
+
+- **Governing Law**: This License shall be governed by and construed in accordance with the laws applicable in your jurisdiction
+- **Dispute Resolution**: Any disputes arising from this License shall be resolved through:
+  1. Good faith negotiations between the parties
+  2. Mediation (if negotiations fail)
+  3. Binding arbitration or litigation as permitted by applicable law
+- **Severability**: If any provision of this License is found unenforceable, the remaining provisions shall continue in full force and effect
+
+### 10. Entire Agreement
+
+This License constitutes the entire agreement between you and the Copyright Holder regarding the Software and supersedes all prior or contemporaneous:
+
+- Agreements
+- Representations
+- Warranties
+- Understandings
+
+No amendment or modification of this License shall be effective unless made in writing and signed by the Copyright Holder.
+
+---
+
+## Summary of Rights and Restrictions
+
+| Your Right | Permitted? |
+|------------|------------|
+| Use for personal purposes | Yes |
+| Copy for personal use | Yes |
+| Modify for personal use | Yes |
+| Distribute freely (no charge) | Yes |
+| Contribute improvements | Yes |
+| Use in open source projects | Yes |
+| Sell for profit | **No** |
+| Create paid versions | **No** |
+| Use in commercial products | **No** |
+| Provide commercial services | **No** |
+| Remove copyright notices | **No** |
+| Claim ownership | **No** |
+
+---
+
+## Contact Information
+
+For questions, permissions, or inquiries regarding this License:
+
+- **GitHub**: [github.com/favour-oe/smart-file-organizer](https://github.com/favour-oe/smart-file-organizer)
+- **Author**: Favour-OE
+
+---
+
+## Acknowledgment
+
+This License was developed with the intention of balancing open source principles with the author's right to protect their work from commercial exploitation. We believe that software should be freely shared to benefit the community, while ensuring that creators maintain control over how their work is monetized.
+
+**Thank you for respecting these terms.**
+
+---
+
+*This License is effective as of April 1, 2026, and applies to all versions of Smart File Organizer.*

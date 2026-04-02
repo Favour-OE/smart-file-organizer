@@ -4,4 +4,13 @@ __pycache__/
 *.pyd
 .DS_Store
 Thumbs.db
+#logger
 activity_log.txt
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Executables
+*.exe
